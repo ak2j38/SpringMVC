@@ -1,4 +1,4 @@
-package sample.spring.mvc;
+package sample.spring.mvc.controller;
 
 import java.text.DateFormat;
 import java.util.Date;
